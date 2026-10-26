@@ -54,7 +54,7 @@
 - Watch and download their stories right in the panel – always anonymously
 - Black ring = new stories, gray = already seen (or Instagram’s colored rings – your choice)
 - **↻** checks who has new stories in one click
-- Syncs to your other computers through Chrome – and comes back if you reinstall – plus backup to a file
+- Syncs to your other computers through Chrome, plus backup to a file
 
 ## ◆ Gentle on your account
 
